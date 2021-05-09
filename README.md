@@ -1,4 +1,4 @@
-Hi, I am someone who likes to program in Js, Python, C++ and HTML.
+Hi, I am a 14 year old who likes to program in Js, Python, C++ and HTML.
 
 I have made several programs, and one program that I made is a [Censor bot](https://top.gg/bot/806619458184806450)
 I can solve a Rubik's cibe with an average of sub 30 secs.
